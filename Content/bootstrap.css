@@ -4940,6 +4940,8 @@ a.list-group-item.active > .badge,
 .jumbotron h1 {
   line-height: 1;
   color: inherit;
+    height: 99px;
+    width: 986px;
 }
 
 .jumbotron p {
