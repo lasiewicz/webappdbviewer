@@ -7,10 +7,14 @@
     
 Data as of
 <asp:Label ID="time" runat="server" Text="Label"></asp:Label>
-    <br />
-    <br />
-    <asp:Table ID="MyTable" runat="server" BorderStyle="Ridge" BorderWidth="1px" CellPadding="1" CellSpacing="1" GridLines="Both" CssClass="prettyprint">
+    <asp:Table ID="MyTable" runat="server" BorderWidth="1px" CellPadding="1" CellSpacing="1" GridLines="Both" >
     </asp:Table>
+    <br />
+    <br />
+      <br />
+      <br />
+      <br />
+      <br />
     <br />
     <br />
     <br />
